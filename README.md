@@ -2,8 +2,6 @@
 
 Weather Forcast App in Django framework using [Openweather Api](https://openweathermap.org),that allows users to check the current weather conditions for a given location.
 
-## Demo
-[Click Here](http://weatherapp.rizad.me/)
 ## Features
 
 - Retrieve weather data based on user input.
